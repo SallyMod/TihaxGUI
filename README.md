@@ -1,2 +1,4 @@
-# TihaxGUI
-This Roblox GUI is from Tihax
+Fluxus will not Work We havent Tested it
+
+
+Hydrogen Only
